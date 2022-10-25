@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    background: #b9c0c5;
+}
+
+img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+.logo {
+    height: 100px;
+}
